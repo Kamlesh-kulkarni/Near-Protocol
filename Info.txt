@@ -1,0 +1,13 @@
+References  -
+1. https://www.youtube.com/watch?v=0ApSQ4YXZAE
+
+2. https://near.academy/near101/chapter-1
+
+3. https://hackmd.io/@nearly-learning/ncd-day-0
+
+4. Commands - 
+npx create-near-app appname
+yarn install
+near cli
+npm install -g near-cli
+
